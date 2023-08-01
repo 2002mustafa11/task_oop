@@ -1,0 +1,19 @@
+Functional Programming:
+
+Focuses on functions, or mathematical functions.
+Code is organized into functions, and programs are a collection of functions.
+Functions are immutable, meaning they always give the same output for the same input.
+No mutable state or variable assignment.
+Procedural Programming:
+
+Focuses on procedures, or steps to complete a task.
+Code is organized via procedures that call other procedures.
+Data is passed between procedures.
+Uses assignments and variables that can be mutated and reassigned.
+Object-Oriented Programming:
+
+Focuses on objects that contain both data and functions.
+Objects represent real-world entities.
+Objects communicate by passing and receiving messages.
+Emphasizes data abstraction and encapsulation.
+Uses classes as blueprints for creating objects.
